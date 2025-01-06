@@ -1,5 +1,4 @@
-![Screenshot 2025-01-05 224625](https://github.com/user-attachments/assets/2b1be70d-1c9b-4d18-8b9d-c3b7376167b6)
-# CyberSecure: A Virtual Assistant for Cybersecurity Awareness and Best Practices
+# CyberSecure: A Virtual Assistant for Cybersecurity Awareness and Best Practices![Screenshot 2025-01-05 224625](https://github.com/user-attachments/assets/2b1be70d-1c9b-4d18-8b9d-c3b7376167b6)
 ## Introduction
 In today’s digital age, cybersecurity is paramount. Threats such as malicious software, hackers, and viruses pose significant risks to individuals and organizations alike. To address these challenges, **CyberSecure** was developed as a virtual assistant aimed at raising cybersecurity awareness and providing actionable best practices.
 ### Key Features:
