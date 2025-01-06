@@ -1,8 +1,7 @@
-![image](https://github.com/user-attachments/assets/5a57be85-ba7d-4f8c-ba74-d55fc805e5d0)
+![Screenshot 2025-01-05 224625](https://github.com/user-attachments/assets/2b1be70d-1c9b-4d18-8b9d-c3b7376167b6)
 # CyberSecure: A Virtual Assistant for Cybersecurity Awareness and Best Practices
 ## Introduction
 In today’s digital age, cybersecurity is paramount. Threats such as malicious software, hackers, and viruses pose significant risks to individuals and organizations alike. To address these challenges, **CyberSecure** was developed as a virtual assistant aimed at raising cybersecurity awareness and providing actionable best practices.
-
 ### Key Features:
 - Tailored to two primary user groups:
   - **Public Users**: Guidance on avoiding scams, protecting personal information, and staying safe online.
@@ -63,6 +62,11 @@ The performance of the RAG models was evaluated based on:
 - **Qwen**: Achieved the highest accuracy (86.67%) and groundedness (76.65%).
 - **Gemma**: The fastest model with an average response time of 11.27 seconds.
 - **Llama**: Balanced performance but slightly lagged behind Qwen in accuracy and groundedness.
+
+---
+
+## Presentation Video
+For a detailed walkthrough of the project, check out the [presentation video](https://drive.google.com/file/d/1E2hXcFCWfdRaGQ3QpPViWl0HyeZtaPo5/view?usp=sharing).
 
 ---
 
