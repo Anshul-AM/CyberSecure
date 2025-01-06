@@ -1,5 +1,4 @@
 # CyberSecure: A Virtual Assistant for Cybersecurity Awareness and Best Practices
-
 ![image](https://github.com/user-attachments/assets/5a57be85-ba7d-4f8c-ba74-d55fc805e5d0)
 
 ## Introduction
